@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"pro",
+				"projeto"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"co",
+				"cont"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"p",
+				"projetos"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "conteudo/menu.php",
+			"settings":
+			{
+				"buffer_size": 1626,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "libs/config.php",
+			"settings":
+			{
+				"buffer_size": 754,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/signatura",
+		"/C/xampp/htdocs/signatura/admin",
+		"/C/xampp/htdocs/signatura/assets",
+		"/C/xampp/htdocs/signatura/assets/css",
+		"/C/xampp/htdocs/signatura/conteudo",
+		"/C/xampp/htdocs/signatura/libs"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/signatura/estilo.css",
+		"/C/xampp/htdocs/signatura/conteudo/footer.php",
+		"/C/Users/Fnatic/Documents/index.html",
+		"/C/xampp/htdocs/signatura/contato.php",
+		"/C/xampp/htdocs/signatura/libs/config.php",
+		"/C/xampp/htdocs/signatura/contato_2.php",
+		"/C/xampp/htdocs/signatura/sobre.php",
+		"/C/xampp/htdocs/signatura/conteudo/contato_cont_white.php",
+		"/C/xampp/htdocs/signatura/conteudo/projetos_destaque.php",
+		"/C/xampp/htdocs/signatura/libs/Projeto.class.php",
+		"/C/xampp/htdocs/signatura/admin/adc_proj.php",
+		"/C/xampp/htdocs/signatura/admin/control/projeto.control.php",
+		"/C/xampp/htdocs/signatura/projetos_detalhe.php",
+		"/C/xampp/htdocs/signatura/conteudo/cont_projetos_detalhe.php",
+		"/C/xampp/htdocs/signatura/conteudo/paginacao_projetos/pagina_aplicativos_mestre.php",
+		"/C/xampp/htdocs/signatura/conteudo/paginacao_projetos/pagina_web_mestre.php",
+		"/C/xampp/htdocs/signatura/conteudo/paginacao_projetos/pagina_todos_mestre.php",
+		"/C/xampp/htdocs/signatura/conteudo/paginacao_projetos/pagina_ecommerce_mestre.php",
+		"/C/xampp/htdocs/signatura/libs/Conn.class.php",
+		"/C/xampp/htdocs/signatura/conteudo/header.php",
+		"/C/xampp/htdocs/signatura/projetos.php",
+		"/C/xampp/htdocs/signatura/index.php",
+		"/C/xampp/htdocs/signatura/ecommerce.php",
+		"/C/xampp/htdocs/signatura/admin/sidebar.php",
+		"/C/xampp/htdocs/signatura/conteudo/menu.php",
+		"/C/Users/Fnatic/Desktop/jQuery-File-Upload-10.7.0/index.html",
+		"/C/xampp/htdocs/signatura/signatura.sql",
+		"/C/xampp/htdocs/signatura/assets/js/signatura.js",
+		"/C/xampp/htdocs/signatura/control/contato.control.php",
+		"/C/xampp/htdocs/signatura/control/Adm.Acc.Control.php",
+		"/C/xampp/htdocs/admin/header.php",
+		"/C/xampp/htdocs/signatura/admin/header.php",
+		"/C/xampp/htdocs/signatura/admin/footer.php",
+		"/C/xampp/htdocs/signatura/.htaccess",
+		"/C/xampp/htdocs/admin/pagetitle.php",
+		"/C/xampp/htdocs/admin/sidebar.php",
+		"/C/Users/Fnatic/Desktop/area/CORE REV/RC-Chat/config/chatserver.properties",
+		"/C/xampp/htdocs/signatura/cool500.php",
+		"/C/xampp/htdocs/signatura/cool404.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/libs/Treatment.class.php",
+		"/C/xampp/htdocs/libs/Factory.class.php",
+		"/C/xampp/htdocs/libs/config.php",
+		"/C/xampp/htdocs/admin/login.php",
+		"/C/xampp/htdocs/admin/assets/js/script-admin.js",
+		"/C/xampp/htdocs/control/Adm.Acc.Control.php.php",
+		"/C/xampp/htdocs/libs/Conn.class.php",
+		"/C/xampp/htdocs/lgg/load.php",
+		"/C/xampp5.6/htdocs/app/professor.php",
+		"/C/xampp/inad/libs/Conta.class.php",
+		"/C/xampp/inad/libs/Sigla.class.php",
+		"/C/xampp/inad/r_inadimplentes.php",
+		"/C/xampp/htdocs/admin/footer.php",
+		"/C/xampp/htdocs/admin/header2.php",
+		"/C/xampp/htdocs/admin/lgg/files/pt-br.php",
+		"/C/xampp/htdocs/admin/index.php",
+		"/C/xampp/htdocs/admin/libs/config.php",
+		"/C/xampp/htdocs/admin/libs/Treatment.class.php",
+		"/C/Users/Fnatic/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/xampp5.6/htdocs/app/views/public/aluno_boletim.html",
+		"/C/xampp5.6/htdocs/app/class/PHPFrodo.class.php",
+		"/C/xampp5.6/htdocs/app/index.php",
+		"/C/xampp/htdocs/admin/copyright.php",
+		"/C/xampp/htdocs/admin/offset.php",
+		"/C/xampp/htdocs/admin/preloader.php",
+		"/C/Users/Fnatic/Desktop/area/Wallpaper Engine [v1.1.174]/[WE] Audio Visualizer/index.html",
+		"/C/xampp/htdocs/admin/index.html",
+		"/C/xampp/htdocs/admin/login.html",
+		"/C/Users/Fnatic/Desktop/area/Wallpaper Engine [v1.1.174]/1380749899/project.json",
+		"/H/Windows.old.000/Users/jonas/Desktop/area de trabalho/sites/sss/Nova pasta/aaaa/s/index.php",
+		"/C/Users/Fnatic/AppData/Local/Temp/Rar$DIa2532.14099/start_web.php",
+		"/C/Users/Fnatic/AppData/Local/Temp/Rar$DIa2532.15426/emitter.php",
+		"/C/Users/Fnatic/AppData/Local/Temp/Rar$DIa2532.13469/start.php",
+		"/C/Users/Fnatic/Desktop/area/Wallpaper Engine [v1.1.174]/1380749899/index.html",
+		"/C/Users/Fnatic/Desktop/voce-0.9.1/samples/recognitionTest/java/recognitionTest.java",
+		"/C/Users/Fnatic/Desktop/voce-0.9.1/lib/voce.config.xml",
+		"/C/Users/Fnatic/IdeaProjects/speech/conf/voce.config.xml",
+		"/H/Windows.old.000/Users/jonas/Desktop/area de trabalho/Simple-Chat-Socket.io-master/index.php",
+		"/H/Windows.old.000/Users/jonas/Desktop/area de trabalho/sites/sss/Nova pasta/aaaa/index.php",
+		"/H/Windows.old.000/Users/jonas/Desktop/area de trabalho/sites/sss/Nova pasta/aaaa/longpolling.php",
+		"/H/Windows.old.000/Users/jonas/Desktop/area de trabalho/sites/sss/Nova pasta/index.php",
+		"/C/Users/Fnatic/Desktop/area/Wallpaper Engine [v1.1.174]/[WE] Audio Visualizer/main.js",
+		"/C/Users/Fnatic/Desktop/area/Wallpaper Engine [v1.1.174]/[WE] Audio Visualizer/project.json",
+		"/C/SiMPLEX.Release.Name/RimWorld x86/Mods/Core_SK/Defs/HediffDefs/Implants/HediffDefs_Bionics.xml",
+		"/C/SiMPLEX.Release.Name/RimWorld x86/Mods/Core_SK/Defs/HediffDefs/Implants/HediffDefs_CyberneticParts.xml",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/xampp/htdocs/inad/libs/Conta.class.php",
+		"/C/xampp/htdocs/inad/libs/Conn.class.php",
+		"/C/Users/Fnatic/Desktop/Hardcore-SK-master/README.md",
+		"/C/SiMPLEX.Release.Name/RimWorld x86/Mods/Core/Defs/ThingDefs_Items/Items_Implants.xml",
+		"/C/SiMPLEX.Release.Name/RimWorld x86/Mods/Core/Defs/HediffDefs/Hediffs_Local_Implants.xml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\signatura\\control"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-weight:400",
+			"padding-left:0",
+			"padding",
+			"aplicativos",
+			"padding",
+			">\n",
+			">[$",
+			"<offset>",
+			"<partEfficiency>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "conteudo/menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "libs/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "signatura.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
