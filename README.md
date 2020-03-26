@@ -8,7 +8,6 @@ Este site foi desenvolvido para o escritório de Design e desenvolvimento criati
 - JavaScript
 - PHP
 
-No site podemos encontrar serviços, projetos, portfólio, contato e outras funcionalidades.
 Acesse o site e confira o projeto:
 https://signatura.com.br
 
