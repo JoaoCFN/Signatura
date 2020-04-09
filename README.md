@@ -1,5 +1,7 @@
 # Signatura
 
+![Print da tela inicial](midia/signatura.png?raw=true "Optional Title")
+
 Este site foi desenvolvido para o escritório de Design e desenvolvimento criativo Signatura visando divulgar os projetos feitos pela empresa. O mesmo foi desenvolvido usando as seguintes tecnlogias:
 
 - HTML
