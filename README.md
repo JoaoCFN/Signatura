@@ -1,6 +1,6 @@
 # :computer: Signatura
 
-![Print da tela inicial](midia/signatura.png?raw=true "Print do começo da homepage")
+![Print da tela inicial](midia/print-web.png?raw=true "Print do começo da homepage")
 
 
 ## :pencil: Projeto
